@@ -11,7 +11,7 @@ O projeto é uma aplicação web básica que emprega o ASP.NET Core e as página
 ## Perguntas e respostas
 
 - O que são as páginas Razor do ASP.NET Core e como funciona a sua estrutura?
-- Os outros questionamentos estão respondidos no código apresentado
+- Os outros questionamentos referentes so TP estão respondidos no código apresentado
 
 ### O que são as páginas Razor do ASP.NET Core e como funciona a sua estrutura?
 
