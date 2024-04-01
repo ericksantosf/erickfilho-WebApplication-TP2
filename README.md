@@ -1,6 +1,6 @@
 # WebApplicationTP2
 
-# Teste de Performance 2 - Páginas Razor
+# Teste de Performance 2
 
 Este é um projeto de teste de performance (TP) para praticar os conhecimentos adquiridos sobre o framework .NET e a criação de páginas Razor.
 
